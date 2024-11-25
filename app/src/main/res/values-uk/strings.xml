@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values-uk/strings.xml -->
+<resources>
+    <string name="app_name">Розумна розетка</string>
+    <string name="relay_1">Реле 1</string>
+    <string name="relay_2">Реле 2</string>
+    <string name="on_off_relay_1">Увімк/Вимк</string>
+    <string name="on_off_relay_2">Увімк/Вимк</string>
+    <string name="response_waiting">Очікування відповіді...</string>
+    <string name="response_success">Успішно: %1$s</string>
+    <string name="response_error">Помилка: %1$d</string>
+    <string name="response_exception">Виключення: %1$s</string>
+    <string name="tvPass">Введіть пароль для входу</string>
+    <string name="tvNotice">Ви ввели неправильний пароль</string>
+    <string name="btnLogin">Увійти</string>
+    <string name="PlainLogin">Пароль</string>
+</resources>

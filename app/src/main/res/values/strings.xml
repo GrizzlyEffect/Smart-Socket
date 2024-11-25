@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Socket</string>
+    <string name="relay_1">Relay 1</string>
+    <string name="relay_2">Relay 2</string>
+    <string name="on_off_relay_1">On/Off</string>
+    <string name="on_off_relay_2">On/Off</string>
+    <string name="response_waiting">Waiting for a response...</string>
+    <string name="response_success">Successfully: %1$s</string>
+    <string name="response_error">Error: %1$d</string>
+    <string name="response_exception">Exceptions: %1$s</string>
+    <string name="tvPass">Enter your password to login</string>
+    <string name="tvNotice">You entered the wrong password</string>
+    <string name="btnLogin">Login</string>
+    <string name="PlainLogin">Password</string>
+</resources>
